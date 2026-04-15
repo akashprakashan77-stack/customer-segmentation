@@ -56,7 +56,8 @@ Mall Customers Dataset containing:
 ---
 
 ## 🧠 Conclusion
-Customer segmentation helps businesses personalize marketing strategies and improve customer retention,which helps company to target exact customers
+Customer segmentation helps businesses personalize marketing strategies and improve customer retention, enabling companies to better target the right customers.
+
 
 ---
 
